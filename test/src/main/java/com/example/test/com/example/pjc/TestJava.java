@@ -15,6 +15,12 @@ public class TestJava {
 
     // a同学修改master分eeee
     // b同学后提交  master分支测试
+    // a同学修改master分eeee修改
+    // 测试master分支冲突
+
+
+
+    // a同学同一个需求先开发完提交了这个类
 
 
 
