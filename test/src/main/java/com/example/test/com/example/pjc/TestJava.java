@@ -13,5 +13,6 @@ public class TestJava {
 
 // master方法
 
-    // a同学修改master分eeee
+    // a同学修改master分eeee修改
+    // 测试master分支冲突
 }
